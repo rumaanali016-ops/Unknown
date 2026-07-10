@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rishadz.aternos.me:",
+    "ip": "rishadz.aternos.me",
     "port": 61824,
     "version": "1.21.1"
   },
