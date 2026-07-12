@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "UnKnownGuY",
+    "username": "Staff01",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "rishadz.aternos.me",
-    "port": 61824,
+    "ip": "dying.minefort.com",
+    "port": 25565,
     "version": "1.21"
   },
   "position": {
